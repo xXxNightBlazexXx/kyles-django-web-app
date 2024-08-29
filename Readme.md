@@ -1,7 +1,10 @@
 # MOBILE GAMES WEB APP
 
+## Project Status
+This project is on hold for development, and is more of a concept at the moment, I need to set up multiple APIs to pull the game data from the stores I am most interested in viewing.
+
 ## What this project is
-This project houses some information about the developer as well current projects. Additionally showcasing some web-app development skills using Python, Django, Datatables, and TailwindCSS
+This project stores and showcases game stores data in reports that allow users to see what games are the most popular and drill down based upon they preferences e.g. (Free, Paid, Genre, Etc.)
 
 ## Dev setup
 - Run the requirements.txt (pip install -r requirements.txt)
